@@ -1,17 +1,14 @@
 from display import Display
 from scenes import SceneManager, StartScene
-from api import Yr
 from wifi import connect_wifi
 
 from utime import sleep
 
 
 def main():
-    wlan = connect_wifi("Basse", "Linnemann1234")
+    wlan = connect_wifi("[Your SSID]", "[Your Password]")
     display = Display()
     manager = SceneManager(display)
-    #yr = Yr(display)
-    #yr.execute()
     
     startScene = StartScene("Start")
     manager.set_scene(startScene)
