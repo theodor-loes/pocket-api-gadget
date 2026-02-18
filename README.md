@@ -1,6 +1,6 @@
 # Pocket API Gadget
 
-Et interaktivt mini-dashboard som kombinerer sanntidsdata fra ulike API-er i et morsont og kreativt IoT-prosjekt.
+Et interaktivt mini-dashboard som kombinerer sanntidsdata fra ulike API-er i et morsomt og kreativt IoT-prosjekt.
 
 I stedet for å navigere gjennom en tradisjonell liste, beveger en figur seg mellom ulike "stasjoner" (værmelding, togavganger, nyheter o.l.). Dette gir en mer intuitiv og visuell måte å hente informasjon på.
 
