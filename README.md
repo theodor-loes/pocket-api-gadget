@@ -70,3 +70,15 @@ Tips:
 - Ta opp en kort skjermvideo og lag en GIF
 - Dette øker attraktiviteten betydelig for arbeidsgivere
 -->
+##💡 Hva jeg lærte
+
+- Hvordan strukturere et prosjekt med tydelig OOP-prinsipper
+- Hvordan kombinere flere API-er i én applikasjon
+- Hvordan bruke UI-design som en del av navigasjonslogikken
+- Viktigheten av separasjon mellom logikk og presentasjon
+
+## 🔮 Videre utvikling
+
+- Flere API-integrasjoner
+- Forbedret animasjonssystem
+- Responsiv tilpasning
